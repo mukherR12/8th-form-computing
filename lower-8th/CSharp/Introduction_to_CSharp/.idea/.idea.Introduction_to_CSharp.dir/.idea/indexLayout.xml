@@ -2,9 +2,7 @@
 <project version="4">
   <component name="UserContentModel">
     <attachedFolders />
-    <explicitIncludes>
-      <Path>lower-8th/CSharp/Introduction_to_CSharp</Path>
-    </explicitIncludes>
+    <explicitIncludes />
     <explicitExcludes />
   </component>
 </project>

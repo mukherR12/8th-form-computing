@@ -1,0 +1,15 @@
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\bin\Debug\net10.0\Introduction_to_CSharp.exe
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\bin\Debug\net10.0\Introduction_to_CSharp.deps.json
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\bin\Debug\net10.0\Introduction_to_CSharp.runtimeconfig.json
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\bin\Debug\net10.0\Introduction_to_CSharp.dll
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\bin\Debug\net10.0\Introduction_to_CSharp.pdb
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\Introduction_to_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\Introduction_to_CSharp.AssemblyInfoInputs.cache
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\Introduction_to_CSharp.AssemblyInfo.cs
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\Introduction_to_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\Introduction_to_CSharp.sourcelink.json
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\Introduction_to_CSharp.dll
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\refint\Introduction_to_CSharp.dll
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\Introduction_to_CSharp.pdb
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\Introduction_to_CSharp.genruntimeconfig.cache
+C:\Users\MukherR\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Introduction_to_CSharp\obj\Debug\net10.0\ref\Introduction_to_CSharp.dll
