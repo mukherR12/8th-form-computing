@@ -20,9 +20,10 @@ class Introduction_to_CSharp
         Console.WriteLine("enter the table rows");
         Int32.TryParse(Console.ReadLine(), out tableRows);
         Console.WriteLine($"Multiplication table for {integer} up to multiple {tableRows}:");
+        Console.WriteLine(String.Format("| {0,tableRows+1} | {0, integer*tableRows} |", "integer", "multiple"));
         for (int i = 1; i <= tableRows; i++)
         {
-            Console.WriteLine(integer * i);
+            Console.WriteLine(String.Format("| {0,tableRows+1} | {0, integer*tableRows} |", i, integer*i));
         }
 
         int radius;
