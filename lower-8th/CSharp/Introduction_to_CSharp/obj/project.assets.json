@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MukherR\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj",
       "projectName": "Introduction_to_CSharp",
-      "projectPath": "C:\\Users\\MukherR\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj",
+      "projectPath": "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj",
       "packagesPath": "C:\\Users\\MukherR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MukherR\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\obj\\",
+      "outputPath": "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MukherR\\AppData\\Roaming\\NuGet\\NuGet.Config"
