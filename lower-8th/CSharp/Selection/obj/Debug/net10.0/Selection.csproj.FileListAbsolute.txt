@@ -1,0 +1,15 @@
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\bin\Debug\net10.0\Selection.exe
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\bin\Debug\net10.0\Selection.deps.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\bin\Debug\net10.0\Selection.runtimeconfig.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\bin\Debug\net10.0\Selection.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\bin\Debug\net10.0\Selection.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\Selection.AssemblyInfoInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\Selection.AssemblyInfo.cs
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\Selection.csproj.CoreCompileInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\Selection.sourcelink.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\Selection.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\refint\Selection.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\Selection.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\Selection.genruntimeconfig.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Selection\obj\Debug\net10.0\ref\Selection.dll
