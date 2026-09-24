@@ -1,0 +1,15 @@
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\bin\Debug\net10.0\Iteration.exe
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\bin\Debug\net10.0\Iteration.deps.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\bin\Debug\net10.0\Iteration.runtimeconfig.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\bin\Debug\net10.0\Iteration.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\bin\Debug\net10.0\Iteration.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\Iteration.AssemblyInfoInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\Iteration.AssemblyInfo.cs
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\Iteration.sourcelink.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\Iteration.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\refint\Iteration.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\Iteration.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\Iteration.genruntimeconfig.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Iteration\obj\Debug\net10.0\ref\Iteration.dll
