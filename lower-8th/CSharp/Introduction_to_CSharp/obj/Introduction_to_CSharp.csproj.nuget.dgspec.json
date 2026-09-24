@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj": {}
+    "C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj": {
+    "C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj",
         "projectName": "Introduction_to_CSharp",
-        "projectPath": "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj",
-        "packagesPath": "C:\\Users\\MukherR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\obj\\",
+        "projectPath": "C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\Introduction_to_CSharp.csproj",
+        "packagesPath": "C:\\Users\\mukhe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Introduction_to_CSharp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MukherR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mukhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net10.0": {
@@ -39,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
@@ -61,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\MukherR\\AppData\\Local\\Microsoft\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
