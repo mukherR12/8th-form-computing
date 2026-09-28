@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Iteration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ad18c586b9c5af67c6a033b3ef791e9cb1bc83")]
 [assembly: System.Reflection.AssemblyProductAttribute("Iteration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Iteration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
