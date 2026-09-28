@@ -1,0 +1,15 @@
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\bin\Debug\net10.0\Functions.exe
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\bin\Debug\net10.0\Functions.deps.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\bin\Debug\net10.0\Functions.runtimeconfig.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\bin\Debug\net10.0\Functions.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\bin\Debug\net10.0\Functions.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\Functions.AssemblyInfoInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\Functions.AssemblyInfo.cs
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\Functions.sourcelink.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\Functions.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\refint\Functions.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\Functions.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\Functions.genruntimeconfig.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Functions\obj\Debug\net10.0\ref\Functions.dll
