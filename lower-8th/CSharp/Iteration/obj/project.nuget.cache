@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "eLr9l9BaJqc=",
+  "dgSpecHash": "VQ2IWxf9BeE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MukherR\\OneDrive - St Paul`s School\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Iteration\\Iteration.csproj",
+  "projectFilePath": "C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Iteration\\Iteration.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Iteration\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Iteration\\Iteration.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\mukhe\\Documents\\GitHub\\8th-form-computing\\lower-8th\\CSharp\\Iteration\\Iteration.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
