@@ -113,7 +113,97 @@ bool IsFriendly(int n1, int n2)
     if (n1divisorSum/n1 == n2divisorSum/n2) return true;
     return false;
 }
+
+String NumberToWords(UInt64 n, bool ands = true, bool commas = true, bool valediction = true)
+{
+    List<string> ones = new List<string>
+    {
+        "", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", 
+        "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"
+    };
+
+    List<string> tens = new List<string>
+    {
+        "", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"
+    };
+
+    List<string> multiples = new List<string>
+    {
+        "", "thousand", "million", "billion", "trillion", "quadrillion", "quintillion"
+    };
+
+    String number = n.ToString();
+    while (number.Length % 3 != 0)
+    {
+        number = "0" + number;
+    }
+
+    String output = "";
+    for (int i = number.Length - 3; i >= 0; i-=3)
+    {
+        String part = number.Substring(i, 3);
+
+        if (i != number.Length - 3)
+        {
+            output = " " + multiples[((number.Length - i) / 3)-1] + (commas? ",":"")+ output;
+        }
+        if (part[1] == '0' || part[1] == '1')
+        {
+            output = " " + ones[int.Parse(part.Substring(1, 2))] + output;
+        }
+        else
+        {
+            output = " " + ones[part[2] - '0'] + output;
+            output = " " + tens[part[1] - '0'] + output;
+        }
+        if (part[0] != '0')
+        {
+            output = " " + ones[part[0] - '0'] + " hundred" + (ands? " and":"") + output;
+        }
+    }
+
+    return output.Substring(1) + "!" + (valediction? " Ah! Ah! Ah!":"");
+}
+
+UInt64 CountVonCount(bool ands, bool commas, bool oldTwitter, bool valediction)
+{
+    int limit = oldTwitter ? 140 : 300;
+
+    bool fits(UInt64 n)
+    {
+        String text = NumberToWords(n, ands, commas, valediction);
+        return text.Length <= limit;
+    }
+
+    UInt64 low = 1;
+    UInt64 high = 1;
+
+    while (fits(high))
+    {
+        high *= 2;
+    }
+
+    while (low < high)
+    {
+        UInt64 mid = (low + high + 1) / 2;
+
+        if (fits(mid))
+        {
+            low = mid;
+        }
+        else
+        {
+            high = mid - 1;
+        }
+    }
+
+    return low;
+}
 int h;
 int m;
 bool am;
-Console.WriteLine(TryParseTime("12:35", out h, out m, out am));
+//Console.WriteLine(TryParseTime("12:35", out h, out m, out am));
+
+UInt64 max = CountVonCount(true, true, true, false);
+string word = NumberToWords(max, true, true, false);
+Console.WriteLine(word);
