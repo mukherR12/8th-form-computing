@@ -119,10 +119,84 @@ List<int> erastosthenes(int maxnum)
     return primes;
 }
 
-// bool searchSortedListNaive<T>(List<T> sorted)
-// {
-//     
-// }
+bool naiveSearch(List<int> list, int item)
+{
+    foreach (int element in list)
+    {
+        if (element == item)
+        {
+            return true;
+        }
+    }
+    return false;
+}
+
+List<int> getDuplicates(List<int> list)
+{
+    HashSet<int> seen = new HashSet<int>();
+    HashSet<int> duplicates = new HashSet<int>();
+
+    foreach (int item in list)
+    {
+        if (!seen.Add(item))
+        {
+            duplicates.Add(item);
+        }
+    }
+
+    return new List<int>(duplicates);
+}
+
+bool isSubset(List<int> list1, List<int> list2)
+{
+    HashSet<int> set1 = new HashSet<int>(list1);
+    HashSet<int> set2 = new HashSet<int>(list2);
+
+    return set1.IsSubsetOf(set2) || set2.IsSubsetOf(set1);
+}
+
+int josephus(int n)
+{
+    int position = 0;
+    for (int i = 2; i <= n; i++)
+    {
+        position = (position + 3) % i;
+    }
+    return position + 1;
+}
+
+void reverseInPlace(List<int> list)
+{
+    int left = 0;
+    int right = list.Count - 1;
+
+    while (left < right)
+    {
+        int temp = list[left];
+        list[left] = list[right];
+        list[right] = temp;
+        left++;
+        right--;
+    }
+}
+
+void bubbleSort(List<int> list)
+{
+    int n = list.Count;
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = 0; j < n - i - 1; j++)
+        {
+            if (list[j] > list[j + 1])
+            {
+                int temp = list[j];
+                list[j] = list[j + 1];
+                list[j + 1] = temp;
+            }
+        }
+    }
+}
+
 
 // printIntList(removeNegatives(numbers));
 
