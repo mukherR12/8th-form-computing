@@ -1,0 +1,15 @@
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\bin\Debug\net10.0\Strings.exe
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\bin\Debug\net10.0\Strings.deps.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\bin\Debug\net10.0\Strings.runtimeconfig.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\bin\Debug\net10.0\Strings.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\bin\Debug\net10.0\Strings.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\Strings.AssemblyInfoInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\Strings.AssemblyInfo.cs
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\Strings.sourcelink.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\Strings.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\refint\Strings.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\Strings.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\Strings.genruntimeconfig.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\Strings\obj\Debug\net10.0\ref\Strings.dll
