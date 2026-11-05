@@ -1,0 +1,15 @@
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\bin\Debug\net10.0\StacksAndQueues.exe
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\bin\Debug\net10.0\StacksAndQueues.deps.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\bin\Debug\net10.0\StacksAndQueues.runtimeconfig.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\bin\Debug\net10.0\StacksAndQueues.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\bin\Debug\net10.0\StacksAndQueues.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\StacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\StacksAndQueues.AssemblyInfo.cs
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\StacksAndQueues.sourcelink.json
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\StacksAndQueues.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\refint\StacksAndQueues.dll
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\StacksAndQueues.pdb
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\StacksAndQueues.genruntimeconfig.cache
+C:\Users\MukherR\OneDrive - St Paul`s School\Documents\GitHub\8th-form-computing\lower-8th\CSharp\StacksAndQueues\obj\Debug\net10.0\ref\StacksAndQueues.dll
