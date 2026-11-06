@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StacksAndQueues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b35e34324209199f59e291821348bd735c22cd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+893b9f705d6f6dae3d605add760718a1159ba4f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("StacksAndQueues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StacksAndQueues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
